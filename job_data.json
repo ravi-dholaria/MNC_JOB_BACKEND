@@ -1,0 +1,2832 @@
+[
+  {
+    "Company": "Mountblue",
+    "Position": "Software Development Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Javascript Python Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 4 LPA - 4 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://careers.mountblue.io/trainee/"
+  },
+  {
+    "Company": "Zycus",
+    "Position": "Software Engineer",
+    "Location": "PAN India",
+    "Skills": "JavaScript HTML5 CSS3",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 4 LPA - 7 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://zycus.skillate.com/jobs/43113"
+  },
+  {
+    "Company": "Appypie",
+    "Position": "Software Tester",
+    "Location": "Noida",
+    "Skills": "QA",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-3 Years",
+    "url": "https://careers.appypie.com/careers/apprenticeship-trainee-fresher-manual-software-tester"
+  },
+  {
+    "Company": "Tata Technologies",
+    "Position": "Systems Engineer",
+    "Location": "Pune",
+    "Skills": "C/C++ Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 6 LPA - 9 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://tatatechnologies.ripplehire.com/candidate/?token=jjZIWXgr7fPCCF6T5yk4&source=CAREERSITE#detail/job/501198"
+  },
+  {
+    "Company": "Trimble",
+    "Position": "Software Developer",
+    "Location": "Chennai",
+    "Skills": "JavaScript C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 17 LPA",
+    "Experience": "Year of experience - 0-3 Years",
+    "url": "https://trimblecareers.trimble.com/careers/job/171815562411"
+  },
+  {
+    "Company": "Ecolab",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Java Azure",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 15 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.ecolab.com/job/19170165/software-engineer-riversand-bangalore-in/"
+  },
+  {
+    "Company": "Forcepoint",
+    "Position": "Software Engineer - I",
+    "Location": "Mumbai",
+    "Skills": "Python Golang C++ Javascript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 19 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://forcepoint.wd1.myworkdayjobs.com/en-US/external-careers/job/India---Mumbai/Software-Engineer---I_JR465907-1"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "UX Designer Associate",
+    "Location": "Pune",
+    "Skills": "UX research Canva",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 7 LPA - 10 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.siemens.com/careers/job/563156116441061?microsite=siemens.com"
+  },
+  {
+    "Company": "DXC Technology",
+    "Position": "PostgreSQL Developer",
+    "Location": "PAN India",
+    "Skills": "SQL DML",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 8 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/IND---KA---BANGALORE/PostgreSQL-DBA_51496620"
+  },
+  {
+    "Company": "BT Group",
+    "Position": "Software Engineering Specialist",
+    "Location": "Gurugram",
+    "Skills": "C/C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 8 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.bt.com/BT/job/25A-DLF-City-Phase-III%2C-Software-Engineering-Specialist-Guru/777894902/&src=JB-12000&src=JB-12000"
+  },
+  {
+    "Company": "Ziplr",
+    "Position": "Software Engineer",
+    "Location": "Bhubaneswar",
+    "Skills": "PHP JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://ziplr.hire.trakstar.com/jobs/fk06fvx/"
+  },
+  {
+    "Company": "Volvo",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Java Spring boot AWS",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 8 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25079&siteid=5171&PageType=JobDetails&jobid=769773#jobDetails=769773_5171"
+  },
+  {
+    "Company": "Microsoft",
+    "Position": "Software Engineer I",
+    "Location": "Hyderabad",
+    "Skills": "JavaScript Java C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 25 LPA - 42 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1630563/Software-Engineer?utm_source=Job%20Share&utm_campaign=Copy-job-share"
+  },
+  {
+    "Company": "IBM",
+    "Position": "Associate Systems Engineer",
+    "Location": "PAN India",
+    "Skills": "Java Python Node.js",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 8 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.ibm.com/job/18844416/associate-systems-engineer-remote/"
+  },
+  {
+    "Company": "ECI",
+    "Position": "Associate Software Developer",
+    "Location": "PAN India",
+    "Skills": "SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://recruiting.ultipro.com/EZE1000EZECI/JobBoard/97cf9268-5a5a-480b-b7b6-5ed694da88c5/OpportunityDetail?opportunityId=1b09f877-9172-4796-b338-a6a597bd476b"
+  },
+  {
+    "Company": "Zoho",
+    "Position": "Software Developer",
+    "Location": "PAN India",
+    "Skills": "C/C++ Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 8 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.zoho.com/careers/jobdetails/?job_id=2803000614929615"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Software Developer",
+    "Location": "Bengaluru",
+    "Skills": "C/C++ Linux",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 14 LPA - 22 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/215479/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Morgan Stanley",
+    "Position": "Analyst",
+    "Location": "Mumbai",
+    "Skills": "Java C++ C#",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 22 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg"
+  },
+  {
+    "Company": "MoEngage",
+    "Position": "Android Engineer",
+    "Location": "Bengaluru",
+    "Skills": "React-Native Flutter",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://moengage.hire.trakstar.com/jobs/fk0x79h/"
+  },
+  {
+    "Company": "JPMorgan",
+    "Position": "Software Engineer I- SRE",
+    "Location": "Hyderabad",
+    "Skills": "JIRA CI/CD",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 24 LPA - 36 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210445620/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Publicis Sapient",
+    "Position": "Software Development Engineer 1",
+    "Location": "Bengaluru",
+    "Skills": "React NoSQL Spring",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 32 LPA - 50 LPA",
+    "Experience": "Year of experience - 3+ years",
+    "url": "https://careers.publicissapient.com/job-details/743999930712144-software-development-engineer-1-sde-1--bengaluru?trid=fabf8f5c-18fc-43ce-ba06-84dac34b9203"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "C/C++ Java JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 28 LPA - 48 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/132852769238196934-software-engineer-engineering-productivity-google-ads"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "System Development Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C/C++ Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 22 LPA - 38 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.amazon.jobs/en/jobs/2454772/system-development-engineer-i-partner-trust"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Business Analyst",
+    "Location": "Bengaluru",
+    "Skills": "SQL Python Excel",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.amazon.jobs/en/jobs/2450421/business-analyst-inpay-data-products-team"
+  },
+  {
+    "Company": "Practo",
+    "Position": "Software Engineer 2",
+    "Location": "Bengaluru",
+    "Skills": "JAVA SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 22 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://practo.app.param.ai/jobs/se-2/"
+  },
+  {
+    "Company": "Microsoft",
+    "Position": "Software Engineer II",
+    "Location": "Hyderabad",
+    "Skills": "C# Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 35 LPA - 50 LPA",
+    "Experience": "Year of experience - 3+ years",
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1631915/Software-Engineer?utm_source=Job%20Share&utm_campaign=Copy-job-share"
+  },
+  {
+    "Company": "Boston Consulting Group",
+    "Position": "Software Engineer – BCG X",
+    "Location": "US",
+    "Skills": "Python",
+    "Type": "Remote",
+    "Salary": "Salary: $110,000",
+    "Experience": "Year of experience - 0 - 1 Years",
+    "url": "https://careers.bcg.com/job/10050077/Software-Engineer-BCG-X"
+  },
+  {
+    "Company": "PayPal",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Java DSA",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 22 LPA - 34 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://paypal.eightfold.ai/careers/job/274895778454"
+  },
+  {
+    "Company": "PayPal",
+    "Position": "Software Engineer - 2024 Summer Intern",
+    "Location": "Bangalore, Chennai",
+    "Skills": "Java C++ Python",
+    "Type": "In-Office Job",
+    "Salary": "Stipend: 60,000/month",
+    "Experience": "Year of experience - Internship",
+    "url": "https://paypal.eightfold.ai/careers/job/274895999061"
+  },
+  {
+    "Company": "ABB",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Python TensorFlow PyTorch",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 15 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.abb/global/en/job/87911209/R-D-Software-Engineer"
+  },
+  {
+    "Company": "Mercedes Benz",
+    "Position": "UI Developer",
+    "Location": "Bengaluru",
+    "Skills": "Angular React",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 28 LPA - 45 LPA",
+    "Experience": "Year of experience - 3+ years",
+    "url": "https://jobs.mercedes-benz.com/job/378891/zgdok-ui-developer.html"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer - FrontEnd",
+    "Location": "Bangalore",
+    "Skills": "Python C/C++ Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 25 LPA - 40 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/96395135371092678-software-engineer-front-end-google-cloud"
+  },
+  {
+    "Company": "Visa",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Python Javascript .Net",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 22 LPA - 34 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.smartrecruiters.com/Visa/743999930537197-software-engineer"
+  },
+  {
+    "Company": "Tiger Analytics",
+    "Position": "ML Android Developers",
+    "Location": "PAN India",
+    "Skills": "React Native Typescript React",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 32 LPA - 48 LPA",
+    "Experience": "Year of experience - 3+ years",
+    "url": "https://tigeranalytics.skillate.com/jobs/54085"
+  },
+  {
+    "Company": "HP",
+    "Position": "Software Engineer",
+    "Location": "PAN India",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.hpe.com/us/en/job/1153486/Software-Engineer"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Software Developer",
+    "Location": "Bengaluru",
+    "Skills": "Java AWS",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 18 LPA - 30 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/209199/?utm_medium=jobshare"
+  },
+  {
+    "Company": "HSBC",
+    "Position": "Software Engineer",
+    "Location": "Pune",
+    "Skills": "JIRA Test Automation",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 16 LPA - 22 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://mycareer.hsbc.com/en_GB/external/Error"
+  },
+  {
+    "Company": "HSBC",
+    "Position": "Trainee Software Engineer",
+    "Location": "Pune",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://mycareer.hsbc.com/en_GB/external/Error"
+  },
+  {
+    "Company": "NetApp",
+    "Position": "Quality Assurance Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Python PyTest",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 10 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.netapp.com/job/-/-/27600/54690121056"
+  },
+  {
+    "Company": "Airbus",
+    "Position": "Full stack Developer",
+    "Location": "Bangalore",
+    "Skills": "Java SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 15 LPA - 26 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/XMLNAME--AGGP2024---Graduate-Full-stack-Developer---Java-React_JR10217625"
+  },
+  {
+    "Company": "Telstra",
+    "Position": "Software Engineering - Associate",
+    "Location": "PAN India",
+    "Skills": "React Node",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 18 LPA - 30 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://telstra.wd3.myworkdayjobs.com/en-US/Telstra_Careers/job/Bengaluru-Karnataka/Software-Engineering---Associate_JR-10104447"
+  },
+  {
+    "Company": "Phenom",
+    "Position": "Software Engineer Trainee",
+    "Location": "Visakhapatnam",
+    "Skills": "C/C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.phenompeople.com/us/en/job/PHENA0059P102925EXTERNAL"
+  },
+  {
+    "Company": "Autodesk",
+    "Position": "Software Engineer",
+    "Location": "Pune",
+    "Skills": "Java Node.js",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--PSET---Product-Data---Data-Foundation-_23WD72025?src=JB-10065"
+  },
+  {
+    "Company": "Myntra",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "MySQL Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary : 18 LPA - 28 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.myntra.com/job-detail/?id=6943806002"
+  },
+  {
+    "Company": "Salesforce",
+    "Position": "Software Engineering MTS",
+    "Location": "Hyderabad",
+    "Skills": "LWC Aura Apex",
+    "Type": "Office - Flexible",
+    "Salary": "Salary: 22 LPA - 40 LPA",
+    "Experience": "Year of experience - 3+ years",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineering-MTS--Salesforce--LWC--Integration-_JR217220"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Position": "Software Engineer - Associate",
+    "Location": "Hyderabad",
+    "Skills": "Java Oracle",
+    "Type": "In-Office Job",
+    "Salary": "Salary : 18 LPA - 34 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://higher.gs.com/roles?title=Human%20Capital%20Management%20-%20Software%20Engineer%20-%20Associate%20-%20Hyderabad&id=113189"
+  },
+  {
+    "Company": "Hexagon",
+    "Position": "Software Engineer",
+    "Location": "Hyderabad",
+    "Skills": "Java C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary : 6 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careersindia-hexagon.icims.com/jobs/10983/software-engineer/job?mobile=false&width=1280&height=500&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330"
+  },
+  {
+    "Company": "LTIMindtree",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C/C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.ltimindtree.com/job/Bengaluru-Software-Engineer-KA/984597201/"
+  },
+  {
+    "Company": "EY",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary : 10 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.ey.com/ey/job/Bengaluru-INS_Staff-KA-560016/973202901/"
+  },
+  {
+    "Company": "Cisco",
+    "Position": "Software Engineer - Platform",
+    "Location": "Bangalore",
+    "Skills": "C/C++ Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 15 LPA",
+    "Experience": "Year of experience - 2+ Years",
+    "url": "https://jobs.cisco.com/jobs/Error"
+  },
+  {
+    "Company": "Microsoft",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "DSA JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary : 25 LPA - 40 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1625286/Software-Engineer"
+  },
+  {
+    "Company": "PayU",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 25 LPA - 45 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.eu.lever.co/payu/4b288cf9-7c2b-4159-9f21-4505d8e4257c"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "C/C++ Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 25 LPA - 40 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95391258974790342-software-engineer-university-graduate-2024"
+  },
+  {
+    "Company": "Zoho",
+    "Position": "Software Developer",
+    "Location": "PAN India",
+    "Skills": "C C++ Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 4 LPA - 7 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1768e3f58ec67755a6033eda4594098da"
+  },
+  {
+    "Company": "Visa",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Python Javascript C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 20 LPA - 34 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.smartrecruiters.com/Visa/743999930537197-software-engineer"
+  },
+  {
+    "Company": "Altair",
+    "Position": "Software Development Engineer",
+    "Location": "Bangalore",
+    "Skills": "C++ Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 15 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=ALTAENGI&cws=39&rid=44326"
+  },
+  {
+    "Company": "Salesforce",
+    "Position": "Associate Technical Support Engineer",
+    "Location": "Hyderabad",
+    "Skills": "C++ Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR213419"
+  },
+  {
+    "Company": "Rubrik",
+    "Position": "Software Engineering Winter Intern",
+    "Location": "Bangalore",
+    "Skills": "Python Java Python",
+    "Type": "In-Office",
+    "Salary": "Stipend: 1.5 Lakhs/month",
+    "Experience": "Year of experience - Internship",
+    "url": "https://www.rubrik.com/company/careers/departments/error"
+  },
+  {
+    "Company": "Deutsche Bank",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Java React",
+    "Type": "In-Office",
+    "Salary": "Stipend: 65,000/month",
+    "Experience": "Year of experience - Internship",
+    "url": "https://careers.db.com/professionals/search-roles/index?kid=global.generic.indeed.organic.jobad#/professional/job/47098"
+  },
+  {
+    "Company": "Procter & Gamble",
+    "Position": "Summer Internship Program - IT",
+    "Location": "Mumbai",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Stipend: 80,000/month",
+    "Experience": "Year of experience - Internship",
+    "url": "https://www.pgcareers.com/global/en/job/R000089123/Summer-Internship-Program---IT?source=RS_LINKEDIN"
+  },
+  {
+    "Company": "Stripe",
+    "Position": "Software Engineering",
+    "Location": "Bengaluru",
+    "Skills": "Java Ruby JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 18 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://stripe.com/jobs/listing/software-engineering-new-grad/5318703?gh_src=73vnei"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Engineer - C++",
+    "Location": "Pune",
+    "Skills": "C++ Linux",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 7 LPA - 10 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.siemens.com/careers/job/563156116315572?microsite=siemens.com"
+  },
+  {
+    "Company": "HCL Tech",
+    "Position": "Software Engineer",
+    "Location": "PAN India",
+    "Skills": "HTML JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 4 LPA - 7 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25667&siteid=5417#jobDetails=4784026_5417"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Software Development Engineer",
+    "Location": "Bangalore",
+    "Skills": "C++JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 24 LPA - 38 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.amazon.jobs/en/jobs/2433158/software-development-engineer-ftc"
+  },
+  {
+    "Company": "Accenture",
+    "Position": "Associate Software Engineer",
+    "Location": "PAN India",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 4.5 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://indiacampus.accenture.com/myzone/accenture/1/jobs/2211/job-details/"
+  },
+  {
+    "Company": "Motorola",
+    "Position": "Software Test Engineer",
+    "Location": "Bangalore",
+    "Skills": "Python Azure",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 13 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Test-Engineer_R39330"
+  },
+  {
+    "Company": "Motorola",
+    "Position": "Software Trainee (Internship)",
+    "Location": "Bangalore",
+    "Skills": "Python SQL",
+    "Type": "In-Office Job",
+    "Salary": "Stipend: 60,000/month",
+    "Experience": "Year of experience - Internship",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Internship-Trainee_R40212"
+  },
+  {
+    "Company": "Yahoo",
+    "Position": "Site Reliability Engineer I",
+    "Location": "India (Remote)",
+    "Skills": "Python JavaScript",
+    "Type": "Remote",
+    "Salary": "Salary: 8 LPA - 13 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://in.linkedin.com/jobs/view/site-reliability-engineer-i-at-yahoo-3731796118"
+  },
+  {
+    "Company": "Renault",
+    "Position": "Frontend Developer",
+    "Location": "Chennai",
+    "Skills": "React JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/en-US/renault-group-careers/job/Chennai/Frontend-Developer_JOBREQ_50150669-1"
+  },
+  {
+    "Company": "HSBC",
+    "Position": "QA Automation",
+    "Location": "Pune",
+    "Skills": "Java Python SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 22 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://mycareer.hsbc.com/en_GB/external/Error"
+  },
+  {
+    "Company": "HP",
+    "Position": "Software Engineer",
+    "Location": "PAN India",
+    "Skills": "Java HTML",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.hpe.com/us/en/job/1150170/Software-Engineer"
+  },
+  {
+    "Company": "Google",
+    "Position": "Technical Writer - Google Cloud Databases",
+    "Location": "Bangalore",
+    "Skills": "SQL HTML",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 15 LPA - 22 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/124078118504669894-technical-writer-google-cloud-databases"
+  },
+  {
+    "Company": "Google",
+    "Position": "Digital Design Engineer",
+    "Location": "Bangalore",
+    "Skills": "Process Cores Interconnects",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 25 LPA - 38 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/93421012252533446-digital-design-engineer"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer - Google Ads",
+    "Location": "Bangalore",
+    "Skills": "Python C++ Java JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 22 LPA - 38 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/140800836335739590-software-engineer-google-ads"
+  },
+  {
+    "Company": "L&T",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 6 LPA - 10 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.ltts.com/job/Bangalore-Storage-Engineer/942782510/"
+  },
+  {
+    "Company": "Mastercard",
+    "Position": "Software Development Engineer",
+    "Location": "Pune",
+    "Skills": "SQL Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 11 LPA - 19 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.mastercard.com/us/en/job/MASRUSR162856EXTERNALENUS/Software-Development-Engineer-in-Test?"
+  },
+  {
+    "Company": "SAP",
+    "Position": "Technology Associate",
+    "Location": "PAN India",
+    "Skills": "Linux Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 6 LPA - 10 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.sap.com/job/Bangalore-IT-Technology-Services-Associate-Sever-Management-560066/968107601/"
+  },
+  {
+    "Company": "HP",
+    "Position": "Software Engineer",
+    "Location": "PAN India",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 8 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.hpe.com/us/en/job/1150170/Software-Engineer"
+  },
+  {
+    "Company": "IBM",
+    "Position": "Software Test Engineer",
+    "Location": "Ahmedabad",
+    "Skills": "JavaScript React Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 7 LPA - 18 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://careers.ibm.com/job-not-found/?jobid=18695835"
+  },
+  {
+    "Company": "Societe Generale",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "React.js Node.js",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0 - 1 Years",
+    "url": "https://careers.societegenerale.com/en/job-offers/software-engineer-23000NS2-en"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Position": "Software Campus Hiring Program",
+    "Location": "PAN India",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Stipend - 90,000/month",
+    "Experience": "Year of experience - Internship",
+    "url": "https://www.goldmansachs.com/careers/students/programs/india/engineers-campus-hiring-program.html"
+  },
+  {
+    "Company": "Tata Technologies",
+    "Position": "Assistant Engineer",
+    "Location": "Pune",
+    "Skills": "Testing",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 6 LPA - 10 LPA",
+    "Experience": "Year of experience - 1 years+",
+    "url": "https://tatatechnologies.ripplehire.com/candidate/?token=jjZIWXgr7fPCCF6T5yk4&source=CAREERSITE#detail/job/502743"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Developer",
+    "Location": "Bangalore",
+    "Skills": "Simocode Sentron",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 7 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://jobs.siemens.com/careers/job/563156116296791"
+  },
+  {
+    "Company": "HSBC",
+    "Position": "Software Engineer",
+    "Location": "Pune",
+    "Skills": "OOPS Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 11 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://mycareer.hsbc.com/en_GB/external/Error"
+  },
+  {
+    "Company": "nvidia",
+    "Position": "Software Engineer Intern - 2024",
+    "Location": "Bengaluru",
+    "Skills": "C++",
+    "Type": "In-Office Job",
+    "Salary": "Stipend - 75,000/month",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Compiler-Optimization-Engineer-Intern---2024_JR1970647-1?locationHierarchy1=2fcb99c455831013ea52b82135ba3266"
+  },
+  {
+    "Company": "Atlassians",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Javascript HTML CSS",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 22 LPA - 45 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.lever.co/atlassian/0ee4ff44-39be-4fcf-8318-efde558ce979"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Software Dev Engineer- FTC",
+    "Location": "Bangalore",
+    "Skills": "JavaScript Design",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 28 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.amazon.jobs/en/jobs/2433150/software-dev-engineer-ftc"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "C C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 22 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/132498169557590726-software-engineer-silicon-validation-software-platform"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineering Intern, Winter 2024",
+    "Location": "Bangalore",
+    "Skills": "C C++ Java JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Stipend - 80,000/month",
+    "Experience": "Year of experience - 0 - 1 Years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/83961401275491014-software-engineering-intern-winter-2024"
+  },
+  {
+    "Company": "Netflix",
+    "Position": "Software Engineer (2024)",
+    "Location": "California",
+    "Skills": "JavaScript TypeScript Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary:  $100k - $300k",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://jobs.netflix.com/jobs/291980521"
+  },
+  {
+    "Company": "Nissan",
+    "Position": "Software Engineer",
+    "Location": "PAN India",
+    "Skills": "JavaScript VBScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 13 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/software-engineer_r00119126"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Software Developer",
+    "Location": "Bengaluru",
+    "Skills": "ReactJS Typescript JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/210977/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Mitsogo",
+    "Position": "Software Engineer (Fresher Hiring)",
+    "Location": "Chennai/ Bangalore",
+    "Skills": "Python JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://www.mitsogo.com/career/software-engineer-fresher-hiring/"
+  },
+  {
+    "Company": "Accenture",
+    "Position": "Software Engineering",
+    "Location": "PAN India",
+    "Skills": "AutoCAD",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 5 LPA - 8 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.accenture.com/in-en/careers/jobdetails?id=89161_india_4&src=LINKEDINJP"
+  },
+  {
+    "Company": "Stripe",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "JavaScript Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 30 LPA - 45 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://stripe.com/jobs/listing/software-engineering-new-grad/5318703?gh_src=73vnei"
+  },
+  {
+    "Company": "Moodys",
+    "Position": "Associate Software Engineer",
+    "Location": "PAN India",
+    "Skills": "C/C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.moodys.com/job/18784783/associate-software-engineer-bangalore-in/"
+  },
+  {
+    "Company": "Dell",
+    "Position": "Software Engineer 2",
+    "Location": "Bangalore",
+    "Skills": "Python Selenium",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 18 LPA - 25 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.dell.com/job/bengaluru/software-engineer-2/375/53622662816"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer - Front End",
+    "Location": "Bangalore",
+    "Skills": "Python Java Javascript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 25 LPA - 38 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/96395135371092678-software-engineer-front-end-google-cloud"
+  },
+  {
+    "Company": "Infor",
+    "Position": "Software Engineer",
+    "Location": "Hyderabad",
+    "Skills": "SQL .Net",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.infor.com/en_US/careers/Error"
+  },
+  {
+    "Company": "Blackrock",
+    "Position": "Associate Software Engineer",
+    "Location": "Gurgaon",
+    "Skills": "React JavaScript  SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 11 LPA - 17 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.blackrock.com/job-not-found/?jobid=18449849"
+  },
+  {
+    "Company": "Honeywell",
+    "Position": "System Engineer",
+    "Location": "Pune",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 13 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.honeywell.com/us/en/job/HRD203689/Systems-Engr-I"
+  },
+  {
+    "Company": "JPMorgan",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 18 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210437954/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Orange",
+    "Position": "Software Engineer",
+    "Location": "Gurugram",
+    "Skills": "Linux SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 16 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://orange.jobs/jobs/v3/offers/126415/similar"
+  },
+  {
+    "Company": "Flipkart",
+    "Position": "Software Development Engineer II",
+    "Location": "Bengaluru",
+    "Skills": "Java C/C++ Ruby",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 25 LPA - 45 LPA",
+    "Experience": "Year of experience - 3 years+",
+    "url": "https://www.flipkartcareers.com/#!/job-view/software-development-engineer-ii-bangalore-karnataka-software-engineering-software-development-java-system-design-low-level-design-high-level-design-2023081817174459"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Software Developer - PM",
+    "Location": "Bengaluru",
+    "Skills": "HTML5 JavaScript Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/208318/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Developer",
+    "Location": "Bangalore",
+    "Skills": "Node.js AWS",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://jobs.siemens.com/careers/job/563156116311741?domain=siemens.com&hl=en"
+  },
+  {
+    "Company": "Zoho",
+    "Position": "Software Developers",
+    "Location": "PAN India",
+    "Skills": "JavaScript Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 6 LPA - 15 LPA",
+    "Experience": "Year of experience - 0-4 years",
+    "url": "https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d13e73b13e65f110de3fac626da84f4b6e"
+  },
+  {
+    "Company": "Cognizant",
+    "Position": "Software Engineer",
+    "Location": "Gurgaon",
+    "Skills": "JavaScript SQL Azure",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 5 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.cognizant.com/in/en/job/00048838833/Software-Engineer"
+  },
+  {
+    "Company": "Cognizant",
+    "Position": "Java Developer",
+    "Location": "Gurgaon",
+    "Skills": "Java CI/CD Git",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 5 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.cognizant.com/in/en/job/42752/Java-Developer"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software developer - C++",
+    "Location": "Bangalore",
+    "Skills": "C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 10 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.siemens.com/careers/job/563156116297512?microsite=siemens.com"
+  },
+  {
+    "Company": "HSBC",
+    "Position": "Android Developer",
+    "Location": "Pune",
+    "Skills": "Java Kotlin",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://mycareer.hsbc.com/en_GB/external/Error"
+  },
+  {
+    "Company": "Hitachi",
+    "Position": "Associate Software Engineer",
+    "Location": "PAN India",
+    "Skills": "JavaScriptHTMLCSS",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 6 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://careers.hitachi.com/jobs/13178379-associate-software-engineer-irc190383"
+  },
+  {
+    "Company": "Meesho",
+    "Position": "Site Reliability Engineering",
+    "Location": "Bangalore",
+    "Skills": "Java Python JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 15 LPA - 28 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.meesho.io/jobs/site-reliability-engineering--i?id=d63e987c-fff3-4992-8b05-137c052bef5b"
+  },
+  {
+    "Company": "Micron Technology",
+    "Position": "Associate Data Science Engineer",
+    "Location": "Hyderabad",
+    "Skills": "Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.micron.com/careers/job/17504660?domain=micron.com"
+  },
+  {
+    "Company": "Insight",
+    "Position": "Software Engineer",
+    "Location": "Gurugram",
+    "Skills": "JavaScript C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 17 LPA - 28 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://insight.eightfold.ai/careers/job/171815990212"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Python C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 28 LPA - 45 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/121509477829485254-software-engineer-engineering-productivity-google-nest"
+  },
+  {
+    "Company": "Barclays",
+    "Position": "Cloud Software Engineer",
+    "Location": "Pune",
+    "Skills": "AWS Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 16 LPA - 24 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://search.jobs.barclays/job/pune/cloud-software-engineer/25615/47699092224"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Software Development Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 24 LPA - 45 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://www.amazon.jobs/en/jobs/2424224/software-development-engineer-device-os?cmpid=SPLICX0248Mhttps://www.amazon.jobs/en/jobs/2424224/software-development-engineer-device-os?cmpid=SPLICX0248M"
+  },
+  {
+    "Company": "Maersk",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Java Azure",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.maersk.com/careers/vacancies/wd/Software-Engineer_R40912-1/jt-software-engineer-(frontend)"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Software Developer",
+    "Location": "Hyderabad",
+    "Skills": "AWS JAVA",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 14 LPA - 22 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/requisitions/preview/205229/?keyword=&location=India&locationId=300000000106947&locationLevel=country"
+  },
+  {
+    "Company": "JPMorgan",
+    "Position": "Software Engineer II - Java",
+    "Location": "Bengaluru",
+    "Skills": "CI/CD Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 24 LPA - 36 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210434403/?utm_medium=jobshare"
+  },
+  {
+    "Company": "NVIDIA",
+    "Position": "Systems Analyst",
+    "Location": "Hyderabad",
+    "Skills": "SQL Tableau",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/BI-Systems-Analyst_JR1967163?locationHierarchy1=2fcb99c455831013ea52b82135ba3266"
+  },
+  {
+    "Company": "NVIDIA",
+    "Position": "Software QA Test Developer",
+    "Location": "Hyderabad",
+    "Skills": "Python C",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 18 LPA - 32 LPA",
+    "Experience": "Year of experience - 1-3 years",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-QA-Test-Developer---Automotive_JR1970040?locationHierarchy1=2fcb99c455831013ea52b82135ba3266"
+  },
+  {
+    "Company": "Mastercard",
+    "Position": "Software Engineer I",
+    "Location": "Pune",
+    "Skills": "HTML5 React Redux Typescript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 13 LPA - 22 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.mastercard.com/us/en/job/MASRUSR201744EXTERNALENUS/Software-Engineer-I"
+  },
+  {
+    "Company": "Google",
+    "Position": "Site Reliability Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C++ Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 28 LPA - 45 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/91853736944509638-site-reliability-engineer-fitbit"
+  },
+  {
+    "Company": "HSBC",
+    "Position": "Software Engineer",
+    "Location": "Pune",
+    "Skills": "Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://mycareer.hsbc.com/en_GB/external/Error"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Software Engineer",
+    "Location": "Hyderabad",
+    "Skills": "Java CI/CD",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 14 LPA - 22 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/210203/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Junglee Games",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Python SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.jungleegames.com/grow-inner-page.php?id=B0133959EE"
+  },
+  {
+    "Company": "Dunzo",
+    "Position": "SDET l",
+    "Location": "Bengaluru",
+    "Skills": "Python Selenium",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 15 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.dunzo.com/careers?gh_jid=6781141002"
+  },
+  {
+    "Company": "GE Health",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 15 LPA - 32 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.gecareers.com/healthcare/global/en/job/GE11GLOBALR3723668EXTERNALENGLOBAL/Software-Engineer"
+  },
+  {
+    "Company": "ABB",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Javascript Angular",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 16 LPA - 28 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.abb/global/en/job/87018942/Software-Engineer"
+  },
+  {
+    "Company": "HSBC",
+    "Position": "Java Developer",
+    "Location": "Pune",
+    "Skills": "Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 14 LPA - 22 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Java-Developer-Senior-Software-Engineer-Wholesale-IT-0000J81J/198330"
+  },
+  {
+    "Company": "ixigo",
+    "Position": "Software Engineer",
+    "Location": "Gurgaon",
+    "Skills": "Javascript Typescript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 16 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://www.smartrecruiters.com/ixigo/1727478042"
+  },
+  {
+    "Company": "JPMorgan",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java React",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 20 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210441029/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Gartner",
+    "Position": "Associate Data Scientist",
+    "Location": "Gurgaon",
+    "Skills": "Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 15 LPA - 22 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.gartner.com/jobs/job/71072-associate-data-scientist-ml/"
+  },
+  {
+    "Company": "JPMorgan",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 18 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210425898/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Microsoft",
+    "Position": "Software Engineer",
+    "Location": "Washington",
+    "Skills": "JavaScript C++",
+    "Type": "Hybrid",
+    "Salary": "Salary - $76K - $151K",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1586981/Software-Engineer"
+  },
+  {
+    "Company": "BlackBerry®",
+    "Position": "Frontend Developer",
+    "Location": "Noida",
+    "Skills": "React.js",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-1 Years",
+    "url": "https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Cyber-Security---React-Frontend-Developer_20220792"
+  },
+  {
+    "Company": "DBS Bank",
+    "Position": "Software Developer",
+    "Location": "Mumbai",
+    "Skills": "SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 15 LPA",
+    "Experience": "Year of experience - 0-3 Years",
+    "url": "https://careers.dbs.com/careersection/dbs_professional_hires_career_section/jobdetail.ftl?job=WD55536&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta"
+  },
+  {
+    "Company": "Google",
+    "Position": "Network Test Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 32 LPA - 45 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/125997994655785670-network-test-engineer-global-network-edge"
+  },
+  {
+    "Company": "Air India",
+    "Position": "Front-end Developer",
+    "Location": "Kochi",
+    "Skills": "React.js",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://careers.airindia.com/job/Kochi-Front-end-Developer/16755644/"
+  },
+  {
+    "Company": "Air India",
+    "Position": "Rave Programmer",
+    "Location": "Gurugram",
+    "Skills": "C++ Analytics",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-3 Years",
+    "url": "https://careers.airindia.com/job/Gurugram-Rave-Programmer/15285144/"
+  },
+  {
+    "Company": "Whirlpool",
+    "Position": "Software Developer",
+    "Location": "Pune",
+    "Skills": "C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 4 LPA - 8 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://jobs.whirlpool.com/careers/job/34376064305-associate-software-engineering-pune-maharashtra-ind?domain=whirlpool.com"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Applications Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java React.js",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 22 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/requisitions/preview/208468/?keyword=Software+Engineer&mode=location"
+  },
+  {
+    "Company": "IBM",
+    "Position": "Software Engineer",
+    "Location": "Bangalore/ Pune/ Hyderabad",
+    "Skills": "C/C++ Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 4 LPA - 11 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://careers.ibm.com/job/18734515/software-engineer-remote/"
+  },
+  {
+    "Company": "HSBC",
+    "Position": "Software Engineer",
+    "Location": "Hong Kong",
+    "Skills": "Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 25 LPA - 40 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://mycareer.hsbc.com/en_GB/external/Error"
+  },
+  {
+    "Company": "Zoho",
+    "Position": "Software Developer",
+    "Location": "Chennai",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-3 Years",
+    "url": "https://careers.zohocorp.com/jobs/Careers/2803000614929615"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Engineer - C++",
+    "Location": "Chennai",
+    "Skills": "C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 15 LPA",
+    "Experience": "Year of experience - 0-3 Years",
+    "url": "https://jobs.siemens.com/careers/job/563156116067090-software-engineer-c--chennai-tamil-nadu-india?domain=siemens.com"
+  },
+  {
+    "Company": "S&P Global",
+    "Position": "Software Developer",
+    "Location": "Noida",
+    "Skills": "Selenium Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 14 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.spglobal.com/jobs/285575?lang=en-us"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java C++ React",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 20 LPA - 32 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/105513/"
+  },
+  {
+    "Company": "Boston Consulting Group",
+    "Position": "Software Engineer",
+    "Location": "Delhi/Bengaluru",
+    "Skills": "React",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 16 LPA - 25 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://careers.bcg.com/job/BCG1US10060180EXTERNALENUS/Software-Engineer-Client-Ops-X-Delivery"
+  },
+  {
+    "Company": "Airtel",
+    "Position": "Software Engineer Backend",
+    "Location": "Gurgaon",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 15 LPA - 25 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://eeji.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/116300/?location=India&locationId=300000000361484&locationLevel=country&mode=location"
+  },
+  {
+    "Company": "Walmart",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C/C++ Java DSA",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 18 LPA - 30 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/SOFTWARE-ENGINEER-II_R-1536995"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Node Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 17 LPA - 29 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/95388/?utm_medium=jobshare"
+  },
+  {
+    "Company": "Accenture",
+    "Position": "Associate Software Engineer",
+    "Location": "PAN India",
+    "Skills": "C/C++ CDS AMDP",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 4.5 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://indiacampus.accenture.com/myzone/accenture/1/jobs/2211/job-details"
+  },
+  {
+    "Company": "Ford",
+    "Position": "Software Engineer",
+    "Location": "Chennai",
+    "Skills": "C/C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 5 LPA - 9 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13870/"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer - Security/Privacy",
+    "Location": "Pune/ Bangalore",
+    "Skills": "DSA JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 30 LPA - 45 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/130586399167390406-software-engineer-securityprivacy-google-cloud/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin"
+  },
+  {
+    "Company": "McKinsey & Company",
+    "Position": "Business Analyst",
+    "Location": "Bengaluru, Chennai",
+    "Skills": "Analytics Excel",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 35 LPA - 60 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-15136"
+  },
+  {
+    "Company": "PhonePe",
+    "Position": "Site Reliability Engineer",
+    "Location": "Bangalore",
+    "Skills": "MySQL Linux",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.phonepe.com/careers/jobs/Site-Reliability-Engineer---Database-Systems/5569704003"
+  },
+  {
+    "Company": "Atlassian",
+    "Position": "Software Development Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 25 LPA - 60 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.atlassian.com/company/careers/details/false"
+  },
+  {
+    "Company": "Citi",
+    "Position": "Java Developer",
+    "Location": "Pune",
+    "Skills": "Java C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 10 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://jobs.citi.com/job/pune/java-automation-developer/287/50841592176"
+  },
+  {
+    "Company": "nVIDIA",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C/C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/System-Software-Engineer---New-College-Graduate_JR1967258"
+  },
+  {
+    "Company": "Tata Elxsi",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C SDLC",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 6 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdHIzcOnghE5MLySbJVi1wSuQTfUjquZnRJ59a6tC95R_jm7A%2Fviewform&followup=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdHIzcOnghE5MLySbJVi1wSuQTfUjquZnRJ59a6tC95R_jm7A%2Fviewform&ifkv=AVQVeyxMH1g7Itf_nbv2E-KGGKO_Reuu1Gzr3ebvQnNNJ2dItyHc8WxSqDCtKGp4VIluH0mH6XZgzA&ltmpl=forms&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1039200000%3A1697489711582311&theme=glif"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Python Java JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 35 LPA - 55 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/121509477829485254-software-engineer-engineering-productivity-google-nest/"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Quality Assurance Engineer",
+    "Location": "Bengaluru",
+    "Skills": "QA testing Linux",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.amazon.jobs/en/jobs/2394443/sw-quality-assurance-engineer-qae-deviceos-connectivity"
+  },
+  {
+    "Company": "Barclays",
+    "Position": "SDET",
+    "Location": "Pune",
+    "Skills": "SQL SDLC",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://search.jobs.barclays/job/-/-/22545/50338442496?src=JB-12860"
+  },
+  {
+    "Company": "GE HealthCare",
+    "Position": "Systems Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 14 LPA - 24 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.gecareers.com/healthcare/global/en/job/R3696794/Systems-Engineer-Specialist"
+  },
+  {
+    "Company": "Slice",
+    "Position": "Business Analyst",
+    "Location": "Bengaluru",
+    "Skills": "SQL Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 9 LPA - 14 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.smartrecruiters.com/slice1/743999912576538-business-analyst"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Engineer",
+    "Location": "Pune",
+    "Skills": "C++ JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 14 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://jobs.siemens.com/careers/job/563156115986129?"
+  },
+  {
+    "Company": "DP World",
+    "Position": "SDE I Frontend",
+    "Location": "Bangalore",
+    "Skills": "HTML5 JavaScript TypeScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 15 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6729"
+  },
+  {
+    "Company": "Black Rock",
+    "Position": "Software Engineer",
+    "Location": "Gurgaon",
+    "Skills": "Java JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 8 LPA - 16 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://careers.blackrock.com/job-not-found/?jobid=18449849"
+  },
+  {
+    "Company": "Stripe",
+    "Position": "Software Engineer",
+    "Location": "Bangalore/Hyderabad",
+    "Skills": "JavaScript HTML/CSS",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 22 LPA - 38 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://stripe.com/jobs/listing/software-engineer-identity-core/4952353"
+  },
+  {
+    "Company": "Glance",
+    "Position": "Backend Developer",
+    "Location": "Bangalore",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 15 LPA - 25 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.glance.com/careers/5113912"
+  },
+  {
+    "Company": "Glance",
+    "Position": "SDE I - UI",
+    "Location": "Bangalore",
+    "Skills": "JavaScript React",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 15 LPA - 25 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.glance.com/careers/5097263"
+  },
+  {
+    "Company": "Citi",
+    "Position": "Full Stack Developer",
+    "Location": "Pune",
+    "Skills": "Java SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 10 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.citi.com/job/pune/full-stack-java-developer/287/21266777040"
+  },
+  {
+    "Company": "Software Engineer",
+    "Position": "HP",
+    "Location": "Bangalore",
+    "Skills": "C++ HTML/CSS",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 6 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.hpe.com/us/en/job/HPE1US1150170EXTERNALENUS/Software-Engineer"
+  },
+  {
+    "Company": "PayPal",
+    "Position": "UX Designer 1",
+    "Location": "Bangalore",
+    "Skills": "Figma UX techniques",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 15 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://paypal.eightfold.ai/careers/job?domain=paypal.com&pid=274894360499"
+  },
+  {
+    "Company": "LTIMindtree",
+    "Position": "Senior Software Engineer",
+    "Location": "Hyderabad",
+    "Skills": "Cloud Linux",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 8 LPA - 14 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://careers.ltimindtree.com/job/SOFTWARE-ENGINEER-CLOUD-APPS/903138701/"
+  },
+  {
+    "Company": "Barclays",
+    "Position": "Systems Engineer",
+    "Location": "Pune",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 14 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://search.jobs.barclays/job/pune/systems-engineer/13015/49879761904"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Devops Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 18 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.amazon.jobs/en/jobs/2385458/devops-engineer-product-replenishment"
+  },
+  {
+    "Company": "Schneider Electric",
+    "Position": "Software Technical Expert",
+    "Location": "Hyderabad",
+    "Skills": "HTML/CSS C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 6 LPA - 10 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.se.com/global/jobs/007A5K"
+  },
+  {
+    "Company": "PayPal",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "C++ Python Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 18 LPA - 28 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0102933-1"
+  },
+  {
+    "Company": "Apple",
+    "Position": "QA Engineer",
+    "Location": "Hyderabad",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 13 LPA - 20 LPA",
+    "Experience": "Year of experience - 1-3 years",
+    "url": "https://jobs.apple.com/en-us/details/200404146/qa-engineer?team=SFTWR"
+  },
+  {
+    "Company": "S&P Global",
+    "Position": "UX Designer",
+    "Location": "Bangalore/Noida",
+    "Skills": "Figma XD",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 14 LPA - 22 LPA",
+    "Experience": "Year of experience - 3+ years",
+    "url": "https://careers.spglobal.com/jobs/287360?lang=en-us"
+  },
+  {
+    "Company": "PhonePe",
+    "Position": "Site Reliability Engineer",
+    "Location": "Bangalore",
+    "Skills": "Python MySQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 11 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.phonepe.com/careers/jobs/Site-Reliability-Engineer---Systems/5500523003"
+  },
+  {
+    "Company": "PhonePe",
+    "Position": "UI Engineer",
+    "Location": "Pune",
+    "Skills": "JavaScript AJAX HTML CSS",
+    "Type": "In-Office Job",
+    "Salary": "Salary: 8 LPA - 16 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://www.phonepe.com/careers/jobs/UI-Engineer-/5553057003"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Software Developer - II",
+    "Location": "Bangalore",
+    "Skills": "C/C++ Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 30 LPA - 55 LPA",
+    "Experience": "Year of experience - 3+ years",
+    "url": "https://www.amazon.jobs/en/jobs/2382381/softwaredevelopmentengineer-ii-tdm-transaction-data-movement"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java GoLang",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 14 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/requisitions/preview/198012/?lastSelectedFacet=AttributeChar6&location=India&locationId=300000000106947&locationLevel=country&selectedFlexFieldsFacets=%22AttributeChar6%7C0+to+2%2B+years%22"
+  },
+  {
+    "Company": "Shell",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Python Azure JIRA",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://jobs.shell.com/job/bengaluru/software-engineer/25244/49678378192"
+  },
+  {
+    "Company": "Ericsson",
+    "Position": "Software Developer",
+    "Location": "Gurgaon",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://jobs.ericsson.com/job/Gurgaon-Service-Delivery_COS_VAS_Software-Developer-Hary/746443202/"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Test Engineer",
+    "Location": "Bangalore",
+    "Skills": "Manual testing SDLC",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 15 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.siemens.com/careers/job?domain=siemens.com&location=India&pid=563156115934881&sort_by=relevance&triggerGoButton=true"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "C#",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.siemens.com/careers/job?domain=siemens.com&query=Software%20Engineer&location=India&pid=563156115901692&sort_by=relevance&triggerGoButton=true&triggerGoButton=false"
+  },
+  {
+    "Company": "Anthology",
+    "Position": "Software Engineer",
+    "Location": "Chennai",
+    "Skills": "React SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 12 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://careers.anthology.com/jobs/12829629-software-engineer"
+  },
+  {
+    "Company": "Microsoft",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "React.js Java C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 20 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1556709/Software-Engineer"
+  },
+  {
+    "Company": "Accenture",
+    "Position": "Associate Software Engineer",
+    "Location": "Gurgaon, Kolkata, Indore, Jaipur, Coimbatore",
+    "Skills": "Javascript C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 4.5 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://indiacampus.accenture.com/myzone/accenture/1/jobs/2211/job-details"
+  },
+  {
+    "Company": "Accenture",
+    "Position": "Associate Software Engineer",
+    "Location": "Bangalore, Hyderabad, Pune, Mumbai, Chennai",
+    "Skills": "Javascript C/C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 4.5 LPA",
+    "Experience": "Year of experience - 0-1 years",
+    "url": "https://indiacampus.accenture.com/myzone/accenture/1/jobs/2211/job-details"
+  },
+  {
+    "Company": "Groww",
+    "Position": "Quality Assurance Engineer",
+    "Location": "Bangalore",
+    "Skills": "Java Spring Boot",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://groww.skillate.com/jobs/53976"
+  },
+  {
+    "Company": "Nymble",
+    "Position": "Software Developer",
+    "Location": "Bangalore",
+    "Skills": "Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://nymble.keka.com/careers/jobdetails/8954"
+  },
+  {
+    "Company": "Klub",
+    "Position": "Data Engineer 1",
+    "Location": "Bangalore",
+    "Skills": "Python Numpy MySQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 12 LPA",
+    "Experience": "Year of experience - 1+ Years",
+    "url": "https://jobs.lever.co/klubworks/8f0fbb65-50c7-45bd-a8d5-30e16d231d71"
+  },
+  {
+    "Company": "Google",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Python C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 35 LPA - 55 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/123905902211146438-software-engineer-site-reliability-engineering-google-nest/"
+  },
+  {
+    "Company": "Flipkart",
+    "Position": "UI Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Javascript HTML5 CSS3 React",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 20 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.flipkartcareers.com/#!/job-view/ui-engineer-i-bangalore-karnataka-javascript-html5-css3-react-angular-2023040615370164"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Developer - Design and Development",
+    "Location": "Bangalore",
+    "Skills": "C++ C# .Net",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 10 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.siemens.com/careers/job?domain=siemens.com&query=Software%20Development&location=Bangalore%2C%20Karnataka%2C%20India&pid=563156115548938&sort_by=relevance"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Development Engineer",
+    "Location": "Bangalore",
+    "Skills": "C++ Linux",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 10 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.siemens.com/careers/job?domain=siemens.com&query=Software%20Development&location=Bangalore%2C%20Karnataka%2C%20India&pid=563156115502447&sort_by=relevance&triggerGoButton=true"
+  },
+  {
+    "Company": "Netomi",
+    "Position": "Data Scientist - I",
+    "Location": "Gurugram",
+    "Skills": "Python PyTorch",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 14 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.lever.co/netomi/e21eca00-fdfe-4c6e-87ef-c06233047f91"
+  },
+  {
+    "Company": "Netomi",
+    "Position": "SDE I - Frontend",
+    "Location": "Gurugram",
+    "Skills": "JavaScript TypeScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 14 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.lever.co/netomi/193837bd-9cb4-4518-83f8-d59c02e7b960"
+  },
+  {
+    "Company": "Generally Intelligent",
+    "Position": "Machine Learning Engineer",
+    "Location": "California",
+    "Skills": "Python PyTorch",
+    "Type": "Remote",
+    "Salary": "Salary - $50k - $70k",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.lever.co/generallyintelligent/9411e2ec-502a-403f-a39a-0d44c676b6af"
+  },
+  {
+    "Company": "Paladin Cyber",
+    "Position": "Fullstack Engineer",
+    "Location": "San Francisco",
+    "Skills": "React Redux Typescript",
+    "Type": "Remote",
+    "Salary": "Salary - $120k - $150k",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.workatastartup.com/jobs/59238"
+  },
+  {
+    "Company": "Yulu",
+    "Position": "UI/UX Designer",
+    "Location": "Bangalore",
+    "Skills": "Figma Wireframing",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 10 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://ats.careers.yulu.bike/#!/job-view/ui-ux-designer-bangalore-2022052216532727"
+  },
+  {
+    "Company": "Mindtickle",
+    "Position": "SDET-1",
+    "Location": "Pune",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 18 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.lever.co/mindtickle/2c527562-eb60-412f-aa62-3ccf8e11e8ff"
+  },
+  {
+    "Company": "Kyloapps",
+    "Position": "SDE-1",
+    "Location": "Delhi",
+    "Skills": "React.js",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 10 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://kyloapps.com/careers/jobs/6418962c79d9867ad0251d0b"
+  },
+  {
+    "Company": "TransUnion",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Software-Engineer_19018830-1"
+  },
+  {
+    "Company": "Elevate K-12",
+    "Position": "SDE 1 - DS",
+    "Location": "Chicago",
+    "Skills": "MS Dynamics 365 SharePoint Power BI SQL",
+    "Type": "Remote",
+    "Salary": "Salary - 8 LPA - 14 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.elevatek12.com/careers/6623774002/"
+  },
+  {
+    "Company": "Elevate K-12",
+    "Position": "SDE 1 - FSE",
+    "Location": "Chicago",
+    "Skills": "AWS .NET Angular",
+    "Type": "Remote",
+    "Salary": "Salary - 8 LPA - 14 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.elevatek12.com/careers/6623762002/"
+  },
+  {
+    "Company": "Typedream",
+    "Position": "Frontend Engineer",
+    "Location": "San Francisco",
+    "Skills": "CSS Git HTML JavaScript",
+    "Type": "Remote",
+    "Salary": "Salary - 25 LPA - 40 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.workatastartup.com/jobs/55569"
+  },
+  {
+    "Company": "Dashworks",
+    "Position": "Product Analyst",
+    "Location": "USA",
+    "Skills": "SQL",
+    "Type": "Remote",
+    "Salary": "Salary - 16 LPA - 40 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.workatastartup.com/jobs/60429"
+  },
+  {
+    "Company": "Irdeto",
+    "Position": "Machine Learning Engineer",
+    "Location": "New Delhi",
+    "Skills": "Python SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.irdeto.com/errorpage/?errortype=404"
+  },
+  {
+    "Company": "Trellix",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C++ Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 15 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.trellix.com/jobs/software-engineer-4/"
+  },
+  {
+    "Company": "mojocare",
+    "Position": "Fullstack Developer",
+    "Location": "Bengaluru",
+    "Skills": "React.js Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://mojocare.freshteam.com/jobs/nYNfUwGR7OBn/sde-2-3-fullstack-developer"
+  },
+  {
+    "Company": "Highon",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Javascript C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://highon.co.in/career"
+  },
+  {
+    "Company": "Zoho",
+    "Position": "QA Engineers",
+    "Location": "Chennai",
+    "Skills": "MySQL Selenium",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://www.zoho.com/careers/jobdetails/?job_id=2803000614913581"
+  },
+  {
+    "Company": "Nagarro",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "C++ Python Javascript",
+    "Type": "Remote",
+    "Salary": "Salary - 8 LPA - 15 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://jobs.smartrecruiters.com/Nagarro1/743999854389991-engineer"
+  },
+  {
+    "Company": "Toddle",
+    "Position": "QA Engineer",
+    "Location": "Bengaluru",
+    "Skills": "SDLC STLC JIRA",
+    "Type": "Remote",
+    "Salary": "Salary - 10 LPA - 15 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://careers.toddleapp.com/jobs/qa-engineer/"
+  },
+  {
+    "Company": "Toddle",
+    "Position": "Software Engineer – Frontend",
+    "Location": "Bengaluru",
+    "Skills": "React Redux/Apollo GraphQL",
+    "Type": "Remote",
+    "Salary": "Salary - 10 LPA - 15 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://careers.toddleapp.com/jobs/software-engineer-frontend/"
+  },
+  {
+    "Company": "inFeedo",
+    "Position": "Frontend Engineer",
+    "Location": "Bengaluru",
+    "Skills": "React.js Javascript",
+    "Type": "Remote",
+    "Salary": "Salary - 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.infeedo.com/"
+  },
+  {
+    "Company": "Deckee",
+    "Position": "Software Engineer",
+    "Location": "Australia",
+    "Skills": "Node.js Express.js",
+    "Type": "Remote",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.useparallel.com/deckee/careers/6435312c908fb437d5f82d4c?s=parallelmarketplace&st=exchange"
+  },
+  {
+    "Company": "ShareChat",
+    "Position": "Software Developer-1",
+    "Location": "Bangalore",
+    "Skills": "React Native",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 20 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://sharechat.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjE0ODAsInJlcXVlc3RlciI6eyJpZCI6IiIsImNvZGUiOiIiLCJuYW1lIjoiIn0sInBhZ2UiOiJjYXJlZXJzIiwiYnVmaWx0ZXIiOi0xLCJjdXN0b21GaWVsZHMiOnt9fQ=="
+  },
+  {
+    "Company": "Inflection",
+    "Position": "SDET",
+    "Location": "Bangalore",
+    "Skills": "Python Selenium",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 15 LPA - 25 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://pienza.applytojob.com/apply/4lWrQcUkGP/Software-Development-Engineer-In-Test-SDET?source=Our%20Career%20Page%20Widget"
+  },
+  {
+    "Company": "Oracle",
+    "Position": "Software Developer",
+    "Location": "PAN India",
+    "Skills": "C++ Javascript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 15 LPA - 30 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions/preview/199816/?keyword=Software+Developer&lastSelectedFacet=POSTING_DATES&location=India&locationId=300000000106947&locationLevel=country&mode=location&selectedPostingDatesFacet=7"
+  },
+  {
+    "Company": "Easebuzz",
+    "Position": "Full Stack Engineer",
+    "Location": "Pune",
+    "Skills": "Python HTML5 ORM",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://easebuzz.hire.trakstar.com/jobs/fk0xvr5/"
+  },
+  {
+    "Company": "Easebuzz",
+    "Position": "Front-end Developer",
+    "Location": "Pune",
+    "Skills": "React.js Redux JavaScript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://easebuzz.hire.trakstar.com/jobs/fk0szxy/"
+  },
+  {
+    "Company": "MyGate",
+    "Position": "SDE 1",
+    "Location": "Bengaluru",
+    "Skills": "Android SDK Java Kotlin",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 16 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://mygate.darwinbox.in/ms/candidate/careers/a6448cfcc3f0df"
+  },
+  {
+    "Company": "CRED",
+    "Position": "SDET - Backend",
+    "Location": "Bangalore",
+    "Skills": "SQL Elasticsearch AWS Kibana",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 18 LPA - 30 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://careers.cred.club/jobPosting?apply_url=https://jobs.lever.co/cred/d04698b5-6b24-4abe-85e4-34333fe4a84b/apply"
+  },
+  {
+    "Company": "Apptio",
+    "Position": "Software Development Engineer",
+    "Location": "Bangalore",
+    "Skills": "React.js Redux",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 15 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://careers.apptio.com/jobs/1935?lang=en-us"
+  },
+  {
+    "Company": "Citi",
+    "Position": "Full Stack Developer",
+    "Location": "Pune",
+    "Skills": "JAVA SQL  Oracle PLSQL Unix",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.citi.com/job/pune/full-stack-java-developer/287/21266777040"
+  },
+  {
+    "Company": "Cadence",
+    "Position": "Software Engineer-1",
+    "Location": "Ahmedabad",
+    "Skills": "C/C++ OOPs",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Software-Engineer-II_R41564"
+  },
+  {
+    "Company": "Cadence",
+    "Position": "Design Engineer-1",
+    "Location": "Ahmedabad",
+    "Skills": "RTL design Verilog",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Design-Engineer-I_R43024"
+  },
+  {
+    "Company": "Tekion",
+    "Position": "Product Manager",
+    "Location": "Bangalore/Chennai",
+    "Skills": "Analytics Data Classification",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 15 LPA - 25 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://tekion.com/job-openings/job/4216771003"
+  },
+  {
+    "Company": "Flipkart",
+    "Position": "Software Developer",
+    "Location": "Bangalore",
+    "Skills": "Javascript HTML5 React",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 18 LPA - 35 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.flipkartcareers.com/#!/job-view/ui-engineer-i-bangalore-karnataka-javascript-html5-css3-react-angular-2023040615370164"
+  },
+  {
+    "Company": "Lenskart",
+    "Position": "DataOps Engineer",
+    "Location": "Bengaluru/Gurgaon",
+    "Skills": "MySQL MongoDB",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7 LPA - 10 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://hiring.lenskart.com/o/dataops-engineer"
+  },
+  {
+    "Company": "Lenskart",
+    "Position": "Software Developer - Java",
+    "Location": "Bengaluru/Gurgaon",
+    "Skills": "Java Kafka Springboot",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 12 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://hiring.lenskart.com/o/software-developer-javanexs"
+  },
+  {
+    "Company": "ElectricPe",
+    "Position": "Software Developer",
+    "Location": "Bangalore",
+    "Skills": "Sql Python Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 15 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://electricpe.com/vacancies/full-stack-developer/"
+  },
+  {
+    "Company": "Flipkart",
+    "Position": "SDET-2",
+    "Location": "Bangalore",
+    "Skills": "Java DevOps",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 25 LPA - 40 LPA",
+    "Experience": "Year of experience - 3+",
+    "url": "https://www.flipkartcareers.com/#!/job-view/software-development-engineer-test-ii-bangalore-karnataka-programming-designing-testing-methodology-knowledge-about-automation-agile-devops-exposure-java-or-other-programming-languages-2023041712403030"
+  },
+  {
+    "Company": "Uni Cards",
+    "Position": "SDET-1",
+    "Location": "Bengaluru",
+    "Skills": "Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 18 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://careers.uni.cards/jobs/a6228e9b0b6ac4"
+  },
+  {
+    "Company": "Tekion",
+    "Position": "Software Engineer - Frontend",
+    "Location": "Bangalore",
+    "Skills": "ReactJS Redux HTML CSS",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 18 LPA - 30 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://tekion.com/job-openings/job/4383933003"
+  },
+  {
+    "Company": "Groww",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Python Cloud security devSecOps",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://groww.skillate.com/jobs/53941"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Salesforce Engineer",
+    "Location": "Chennai",
+    "Skills": "SFDC CRM",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 18 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.amazon.jobs/en/jobs/2353540/salesforce-support-engineer-sales-tech"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "ML Data Associate-I",
+    "Location": "Chennai",
+    "Skills": "Python SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.amazon.jobs/en/jobs/2352793/ml-data-associate-i-alexa-data-services-ads"
+  },
+  {
+    "Company": "LTIMindtree",
+    "Position": "Software Engineer Embedded",
+    "Location": "Bangalore",
+    "Skills": "C C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.ltimindtree.com/job/BANGALORE-SOFTWARE-ENGINEER-EMBEDDED-SOFTWARE-KA/893347001/"
+  },
+  {
+    "Company": "Barclays",
+    "Position": "Software Developer",
+    "Location": "Pune",
+    "Skills": "Core Java Angular Struts NodeJS",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://search.jobs.barclays/job/pune/java-developer/13015/47290284160"
+  },
+  {
+    "Company": "VMware",
+    "Position": "Product Engineer",
+    "Location": "Bangalore, India",
+    "Skills": "Python Rails GO NodeJS",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://careers.vmware.com/careers-home/jobs/R2302237?lang=en-us"
+  },
+  {
+    "Company": "VMware",
+    "Position": "Software Engineering",
+    "Location": "Bangalore",
+    "Skills": "Java RESTful APIs Gitlab Jenkins",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 16 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://careers.vmware.com/careers-home/jobs/R2302462?lang=en-us"
+  },
+  {
+    "Company": "PhonePe",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java C C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 3+ years",
+    "url": "https://boards.greenhouse.io/phonepe/jobs/5492589003"
+  },
+  {
+    "Company": "Citi",
+    "Position": "Full Stack Developer",
+    "Location": "Pune",
+    "Skills": "JAVA SQL Oracle PLSQL Spring",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 25 LPA",
+    "Experience": "Year of experience - 0-3 Years",
+    "url": "https://jobs.citi.com/job/pune/full-stack-java-developer/287/21266777040"
+  },
+  {
+    "Company": "Siemens",
+    "Position": "Software Developer",
+    "Location": "Bangalore",
+    "Skills": "C# dot NET Angular",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 12 LPA - 15 LPA",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.siemens.com/careers/job?domain=siemens.com&query=Software%20Developer&location=Bangalore%2C%20Karnataka%2C%20India&pid=563156115492905&sort_by=relevance"
+  },
+  {
+    "Company": "Honeywell",
+    "Position": "Software Engineer",
+    "Location": "Hyderabad",
+    "Skills": "Java React.js Javascript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 15 LPA",
+    "Experience": "Year of experience - 0-3 Years",
+    "url": "https://careers.honeywell.com/us/en/job/HRD185888/Software-Engr-II"
+  },
+  {
+    "Company": "Autodesk",
+    "Position": "Software Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Java NodeJS React Native VueJS DynamoDB",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 15 LPA - 30 LPA",
+    "Experience": "Year of experience - 0-2 Years",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Bengaluru-IND/Software-Engineer---Full-Stack-Developer_23WD68963"
+  },
+  {
+    "Company": "Visa",
+    "Position": "Business Analyst",
+    "Location": "Bangalore",
+    "Skills": "Word Excel PowerPoint Visio",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 20 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.visa.co.in/en_in/jobs/"
+  },
+  {
+    "Company": "Visa",
+    "Position": "Software Development",
+    "Location": "Bangalore",
+    "Skills": "Kubernetes Jira Docker",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://www.visa.co.in/en_in/jobs/?cities=Mumbai"
+  },
+  {
+    "Company": "S&P Global",
+    "Position": "Software Engineer",
+    "Location": "Noida",
+    "Skills": "React.js Java C# C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 20 LPA",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.spglobal.com/jobs/284212?lang=en-us"
+  },
+  {
+    "Company": "Samespace",
+    "Position": "Frontend Engineer",
+    "Location": "Mumbai",
+    "Skills": "React.js JavaScript CSS HTML",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.samespace.com/careers/frontend-engineer"
+  },
+  {
+    "Company": "Samespace",
+    "Position": "Backend Engineer",
+    "Location": "Mumbai",
+    "Skills": "JavaScript Golang Node.js MySql MongoDB",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.samespace.com/careers/backend-engineer"
+  },
+  {
+    "Company": "foundit",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "Javascript C++",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 5 LPA - 10 LPA",
+    "Experience": "Year of experience - 0-4 years",
+    "url": "https://www.foundit.in/search/c-jobs-in-bengaluru-bangalore?expired_job=true&searchId=735f9f8c-5bd6-4916-b6ed-0c249d2e4d0f"
+  },
+  {
+    "Company": "Kotak",
+    "Position": "SDE-1",
+    "Location": "Bangalore",
+    "Skills": "React.js Flux Redux GraphQL HTML/CSS",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/91481/?mode=location"
+  },
+  {
+    "Company": "Newton School",
+    "Position": "SDE - 1",
+    "Location": "Bangalore",
+    "Skills": "JavaScript React.js",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://jobs.lever.co/newton-school/85004bec-b5b0-46f4-9872-6c27b1573d37"
+  },
+  {
+    "Company": "Games24x7",
+    "Position": "Backend Developer",
+    "Location": "Bangalore",
+    "Skills": "PostgreSQL MySQL MongoDB Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 1 years+",
+    "url": "https://www.games24x7.com/jobs/backend-developer-sde-1-2/"
+  },
+  {
+    "Company": "Jio",
+    "Position": "Graduate Engineer Trainee",
+    "Location": "Mumbai",
+    "Skills": "Javascript C++ CAD",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=S60swio1HXot4wmZmEXs+g"
+  },
+  {
+    "Company": "Uber",
+    "Position": "Software Engineer",
+    "Location": "Bangalore",
+    "Skills": "DynamoDB AZURE MySQl MariaDB",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 25 LPA - 40 LPA",
+    "Experience": "Year of experience - 1-3 years",
+    "url": "https://www.uber.com/global/en/careers/list/120920/"
+  },
+  {
+    "Company": "Uber",
+    "Position": "Full Stack Developer",
+    "Location": "Bangalore",
+    "Skills": "C++ GoLang Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 25 LPA - 40 LPA",
+    "Experience": "Year of experience - 1-3 years",
+    "url": "https://www.uber.com/global/en/careers/list/121384/"
+  },
+  {
+    "Company": "Insurance Dekho",
+    "Position": "SDE-1",
+    "Location": "Gurugram",
+    "Skills": "React.js Node.js Javascript MERN",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 7.5 LPA - 9 LPA",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://pewter-pony-778.notion.site/SDE-1-Frontend-Requisition-5c49a2cceae549a5b29aa88c21185bbf"
+  },
+  {
+    "Company": "CoinDCX",
+    "Position": "SOFTWARE ENGINEER 2",
+    "Location": "Bengaluru",
+    "Skills": "Web3.0 Flutter",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 1-3 years",
+    "url": "https://careers.coindcx.com/careers?src%3Dcareers&search%3DSoftware%26p%3DeyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjEwLCJyZXF1ZXN0ZXIiOnsiaWQiOiIiLCJjb2RlIjoiIiwibmFtZSI6IiJ9LCJwYWdlIjoiY2FyZWVycyIsImJ1ZmlsdGVyIjotMSwiY3VzdG9tRmllbGRzIjp7InNlYXJjaCI6IlNvZnR3YXJlIn19"
+  },
+  {
+    "Company": "HCL Tech",
+    "Position": "Software Engineer",
+    "Location": "Nagpur",
+    "Skills": "Oracle PL SQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://www.hcltech.com/jobs/software-engineer-0"
+  },
+  {
+    "Company": "mindtickle",
+    "Position": "SDE-1",
+    "Location": "Pune",
+    "Skills": "REST GraphQL Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://jobs.lever.co/mindtickle/2c527562-eb60-412f-aa62-3ccf8e11e8ff"
+  },
+  {
+    "Company": "Mastercard",
+    "Position": "Software Engineer",
+    "Location": "Pune",
+    "Skills": "HTML5 ES5+ES6 React Redux Typescript",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://careers.mastercard.com/us/en/job/R-192505/Software-Engineer-in-Test"
+  },
+  {
+    "Company": "Awign",
+    "Position": "Data Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Python Java C++ Hadoop Spark Kafka",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 2+ years",
+    "url": "https://www.awign.com/careers/5f6f138ebfc541003291206a"
+  },
+  {
+    "Company": "Awign",
+    "Position": "Software Developer",
+    "Location": "Bengaluru",
+    "Skills": "Rails Spring Python FlaskJava",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 10 LPA - 18 LPA",
+    "Experience": "Year of experience - 1+ Years",
+    "url": "https://www.awign.com/careers/6298799a5552ba0036c48cf4"
+  },
+  {
+    "Company": "Inito Inc",
+    "Position": "Software Engineer -1",
+    "Location": "Bangalore",
+    "Skills": "Node.js Python Reacts PostgreSQL",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 1-4 years",
+    "url": "https://samplytics.keka.com/careers/JobDetails/2016"
+  },
+  {
+    "Company": "Amazon",
+    "Position": "Support Engineer",
+    "Location": "Bengaluru",
+    "Skills": "Python Perl C C++ Java",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 1+ years",
+    "url": "https://www.amazon.jobs/en/jobs/2343922/support-engineer"
+  },
+  {
+    "Company": "Groww",
+    "Position": "SDE I",
+    "Location": "Bengaluru",
+    "Skills": "Android SDK Core Java Kotlin",
+    "Type": "In-Office Job",
+    "Salary": "Salary - 8 LPA - 18 LPA",
+    "Experience": "Year of experience - 1-3 years",
+    "url": "https://groww.skillate.com/jobs/50126"
+  },
+  {
+    "Company": "Qualcomm",
+    "Position": "Software Engineer",
+    "Location": "Hyderabad",
+    "Skills": "C C++ Java Python",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 1-3 years",
+    "url": "https://qualcomm.wd5.myworkdayjobs.com/External/job/Hyderabad-IND/Engineer_3038410"
+  },
+  {
+    "Company": "Nissan",
+    "Position": "Software Engineer I",
+    "Location": "Trivandrum",
+    "Skills": "HoloLens Jira Bitbucket SonarQube",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-2 years",
+    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Nissan-Digital-Hub-Trivandrum-IN/Software-Engineer-I_R00114307-1"
+  },
+  {
+    "Company": "Larsen & Toubro",
+    "Position": "Software Developer- Web Applications",
+    "Location": "Bengaluru, India",
+    "Skills": "HTML CSS Javascript Typescript Angular11",
+    "Type": "In-Office",
+    "Salary": "Salary - 8 LPA",
+    "Experience": "Year of experience - 0 - 1 Years",
+    "url": "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_S-WA_646908"
+  },
+  {
+    "Company": "Intel",
+    "Position": "Software Application Developer",
+    "Location": "Bengaluru, India",
+    "Skills": "HTML CSS Javascript Python Relational Databases",
+    "Type": "Remote/ In-Office",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 3+",
+    "url": "https://jobs.intel.com/en/job/bengaluru/software-application-developer/41147/46695959760"
+  },
+  {
+    "Company": "GE Digital",
+    "Position": "Quality Assurance Engineer",
+    "Location": "Hyderabad, India",
+    "Skills": "SQL PL/SQL Agile UI/UX Testing",
+    "Type": "In-Office Job",
+    "Salary": "Salary - Not Disclosed",
+    "Experience": "Year of experience - 0-3 years",
+    "url": "https://jobs.gecareers.com/global/en/job/GE11GLOBALR3695368EXTERNALENGLOBAL/Quality-Assurance-Engineer"
+  }
+]
