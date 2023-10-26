@@ -1,4 +1,4 @@
-import express from "express";
+  import express from "express";
 import dotenv from "dotenv";
 import connnectDB from "./db.js";
 import cors from "cors";
