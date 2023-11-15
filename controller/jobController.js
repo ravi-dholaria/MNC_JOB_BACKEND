@@ -1,5 +1,7 @@
 import jobModel from "../model/jobModel.js";
-import * as data from "../job_data.json" assert { type: "json" };
+import data from '../job_data.json'; // Assuming 'data' is the default export
+// Use assert to check the type property of the imported data
+assert(data.type === 'json', 'Invalid data type');
 export const jobController = async (req, res) => {
   try {
     const jobs = await jobModel.find({});
