@@ -1,7 +1,4 @@
 import jobModel from "../model/jobModel.js";
-import data from '../job_data.json'; // Assuming 'data' is the default export
-// Use assert to check the type property of the imported data
-assert(data.type === 'json', 'Invalid data type');
 export const jobController = async (req, res) => {
   try {
     const jobs = await jobModel.find({});
@@ -24,6 +21,7 @@ export const jobController = async (req, res) => {
 export const jobInsertController = async (req, res) => {
   try {
     await jobModel.deleteMany({});
+    const data = [{}]
     const jobs = await jobModel
       .insertMany(data.default)
       .then((docs) => {
